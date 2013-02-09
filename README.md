@@ -1,0 +1,4 @@
+statcwebsite
+============
+
+staticwebsite
